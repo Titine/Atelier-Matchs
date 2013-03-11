@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TestRanking.BasicPointSystemMock">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="TestRanking.BasicPointSystemMock.TotalMock">
+        <TypeIdentifier>
+          <NewMemberFileName>BasicPointSystemMock.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>BasicPointSystemMock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoccerRankingLib.Ranking">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="SoccerRankingLib.Ranking.RankingEntry">
+        <TypeIdentifier>
+          <NewMemberFileName>Ranking.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAACAACAAAAgAAAAAAABAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Ranking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
